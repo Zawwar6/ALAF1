@@ -343,6 +343,7 @@ section#dealers {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 #dealers h3 {
   text-align: center;
