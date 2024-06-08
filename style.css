@@ -816,5 +816,15 @@ footer {
   width: 20%;
   height: 20%;
 }
+.flex-container {
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 0px 10% 0% 10%;
+}
+section#dealers {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
 
 
