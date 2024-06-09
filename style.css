@@ -345,7 +345,6 @@ text-align:center ;
 }
 section#dealers {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
