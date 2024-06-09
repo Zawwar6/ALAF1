@@ -824,8 +824,6 @@ section#dealers {
   flex-direction: column;
   justify-content: center;
 }
-.flex-container{
-  grid-template-columns: 1fr; 
-}
+
 
 
